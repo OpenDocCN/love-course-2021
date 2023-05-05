@@ -12,7 +12,7 @@
 +   [欧阳浮夸✅](docs/ou-yang-fu-kua/README.md)
 +   [浪迹](docs/lang-ji/README.md)
 +   [瑞恩](docs/rui-en/README.md)
-+   [艾克](docs/ai-ke/README.md)
++   [艾克✅](docs/ai-ke/README.md)
 +   [郑匡宇](docs/zheng-kuang-yu/README.md)
 +   [男哥](docs/nan-ge/README.md)
 +   [魔鬼咨询师](docs/mo-gui-zi-xun-shi/README.md)
