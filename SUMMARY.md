@@ -34,4 +34,5 @@
 +   [社嘟嘟](docs/she-du-du/README.md)
 +   [社交补习班](docs/she-jiao-bu-xi-ban/README.md)
 +   [白鹤](docs/bai-he/README.md)
++   [西语](docs/xi-yu/README.md)
 +   [其它](docs/misc/README.md)
