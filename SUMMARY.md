@@ -37,4 +37,5 @@
 +   [西语](docs/xi-yu/README.md)
 +   [逸南](docs/yi-nan/README.md)
 +   [雨哥](docs/yu-ge/README.md)
++   [爱情光谱](docs/ai-qing-guang-pu/README.md)
 +   [其它](docs/misc/README.md)
