@@ -43,4 +43,5 @@
 +   [情受](docs/qing-shou/README.md)
 +   [晓辉](docs/xiao-hui/README.md)
 +   [旭旭](docs/xu-xu/README.md)
++   [海觉](docs/hai-jue/README.md)
 +   [其它](docs/misc/README.md)
