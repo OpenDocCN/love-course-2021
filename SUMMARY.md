@@ -17,7 +17,6 @@
 +   [李越](docs/li-yue/README.md)
 +   [欧阳浮夸](docs/ou-yang-fu-kua/README.md)
 +   [浪迹](docs/lang-ji/README.md)
-+   [瑞恩](docs/rui-en/README.md)
 +   [艾克](docs/ai-ke/README.md)
 +   [郑匡宇](docs/zheng-kuang-yu/README.md)
 +   [男哥](docs/nan-ge/README.md)
@@ -40,4 +39,5 @@
 +   [爱情光谱](docs/ai-qing-guang-pu/README.md)
 +   [RSD](docs/rsd/README.md)
 +   [真爱之门](docs/zhen-ai-zhi-men/README.md)
++   [尊尼](docs/zun-ni/README.md)
 +   [其它](docs/misc/README.md)
