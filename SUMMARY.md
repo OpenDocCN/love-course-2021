@@ -44,4 +44,7 @@
 +   [晓辉](docs/xiao-hui/README.md)
 +   [旭旭](docs/xu-xu/README.md)
 +   [海觉](docs/hai-jue/README.md)
++   [魔卡](docs/mo-ka/README.md)
++   [鸭哥](docs/ya-ge/README.md)
++   [馄饨哥](docs/hun-dun-ge/README.md)
 +   [其它](docs/misc/README.md)
