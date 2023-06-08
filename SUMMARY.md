@@ -3,7 +3,6 @@
 +   [安小妖](docs/an-xiao-yao/README.md)
 +   [曹学敏](docs/cao-xue-min/README.md)
 +   [Chris](docs/chris/README.md)
-+   [富饶](docs/fu-rao/README.md)
 +   [七分学堂](docs/qi-fen-xue-tang/README.md)
 +   [乐福](docs/le-fu/README.md)
 +   [乌鸦救赎](docs/wu-ya/README.md)
