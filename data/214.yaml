@@ -13,6 +13,17 @@
 
     -   The suggested vocabulary proficiency level needed for English reading is at
     least equivalent to that of the "Oxford Advanced Learner''s Dictionary."'
+  qas:
+  - 问题1：根据作者，英语阅读达到过关的标准是什么？
+  - 回答1：能够同时阅读文艺、时政、生活三大领域的代表性杂志。
+  - 问题2：如果需要剔除一个领域，作者建议剔除哪个？
+  - 回答2：剔除时政领域。
+  - 问题3：在剩下的两个领域中，作者更倾向于保留哪一个？
+  - 回答3：保留生活领域。
+  - 问题4：作者认为阅读生活类用语对于学习一门外语的重要性在哪里？
+  - 回答4：作者认为生活类用语更贴近国民的日常交流需求。
+  - 问题5：根据作者，非英语专业者要达到这一阅读水平可能需要多少时间投入？
+  - 回答5：至少需要十年的业余时间全力投入。
   questions: '-   What are the representative fields of English reading suggested
     in order to meet the passing standard?
 
