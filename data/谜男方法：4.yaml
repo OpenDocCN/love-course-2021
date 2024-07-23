@@ -7,6 +7,17 @@
     -   收集开启者是指收集个人意识的小故事，用来在谜男方法中开启聊天。
 
     -   小故事帮助开启聊天是因为它们可以引起对话，让对方感兴趣并参与到互动中。'
+  qas:
+  - 问题1：谜男方法中的收集步骤是什么？
+  - 回答1：收集的步骤是收集开场白，这些通常是短小的故事，用来开启聊天。
+  - 问题2：开场白的作用是什么？
+  - 回答2：开场白的作用是在开始交谈时引起对方的注意，通常通过个人意识故事来实现。
+  - 问题3：开场白可以是什么类型的？
+  - 回答3：开场白可以是小开场白或大开场白，小开场白更简短，用于初次接触，而大开场白更复杂，用于后续交流。
+  - 问题4：多少次重复使用开场白是常见的？
+  - 回答4：通常开场白会多次重复使用，可以是数次，例如每隔几分钟使用一次，以保持对话的流畅。
+  - 问题5：开场白的目的是什么？
+  - 回答5：开场白的目的是建立和对话伙伴的连接，引导对话进展，并在互动中保持轻松和开放的氛围。
   questions: '-   如何使用谜男方法来开启聊天？
 
     -   什么是小开启者和大开启者？
@@ -30,6 +41,17 @@
     -   在利用社交圈規則時，透過批發的方式擴大社交圈和增加機會的方法是與不同的人群建立關係，利用現有的社交關係介紹新的人，並積極參與各種社交活動。
 
     -   通過旅行和社交活動擴展社交圈和機會時，利用參與群組活動建立更多的社交關係的方法是積極參與各種活動，與不同的人建立聯繫，並展示自己的社交價值和吸引力。'
+  qas:
+  - 问题1：这段文本讨论的主题是什么？
+  - 回答1：这段文本讨论的主题是社交和人际互动技巧。
+  - 问题2：文本中提到的“停止”和“开放”的意义是什么？
+  - 回答2：在文本中，“停止”指结束当前话题或交流线索，而“开放”指重新引入新的话题或交流线索。
+  - 问题3：这段文本提到了一个名字，叫什么？
+  - 回答3：文本中提到的名字是Crystal。
+  - 问题4：文本中描述了什么是“批发”？
+  - 回答4：文本中的“批发”指的是团队或群体一起出去社交活动，例如一起去夜店或活动，以增加吸引力和舒适感。
+  - 问题5：文本中提到的“第一层”到“第五层”指的是什么？
+  - 回答5：文本中的“第一层”到“第五层”描述了在社交互动中逐步建立关系和吸引力的不同阶段或策略。
   questions: '-   如何透過開放式對話線建立舒適感，引起對方興趣？
 
     -   在建立時間橋時應該注意哪些要素，以讓對方想繼續交流？
@@ -56,6 +78,17 @@
     -   S和R的价值评论线是指在社交互动中，对自身价值和吸引力的评价线，可以影响对他人的吸引力和互动。
 
     -   通过温暖套子和设计来吸引女性是为了建立舒适和亲密关系，让女性感到被吸引和尊重，从而增加互动的成功率。'
+  qas:
+  - 问题1：为什么女生会去大音乐圈？
+  - 回答1：因为大音乐圈能提供保护，特别是对于漂亮的女生，她们更需要保护自己。
+  - 问题2：社交圈对于有女朋友的人有什么影响？
+  - 回答2：有女朋友时，社交圈可能会减少，因为时间被占用。
+  - 问题3：为什么需要建立一个社交圈？
+  - 回答3：建立社交圈可以弥补因个人关系变化而导致的社交需求缺失。
+  - 问题4：文本中提到的温暖套子指的是什么？
+  - 回答4：温暖套子指的是在社交互动中使用的一种技巧或策略。
+  - 问题5：文本中提到的“S和R的价值评论线”指的是什么？
+  - 回答5：这是文本中提到的一种吸引力的观点或理论，可能与个人吸引力和社交互动有关。
   questions: '-   女性在社交圈中为什么会寻找朋友来保护自己？
 
     -   在大音乐圈中，为什么女性越漂亮越需要保护？
@@ -79,6 +112,7 @@
     -   男主角通过不同方式表达结束对话的技巧，以避免尴尬局面，因为他意识到女性可能会有不同的反应，所以采取不同的方式可以更加灵活地处理情况。
 
     -   男主角通过自我调整和冒险尝试来克服困境，以保持对话的流畅，这表明他愿意尝试新的方法和技巧，以提升自己的社交能力和吸引力。'
+  qas: []
   questions: '-   男主角是如何通过混合搭配服装套组来建立自信的？
 
     -   男主角为什么最终发现这种方式并非社会认可的证据？
@@ -117,6 +151,21 @@
     -   处理游戏中的社交互动需要展现出自信和魅力，同时要注意传达出自己是一个有吸引力的男性。
 
     -   应对女孩们可能的回嘴行为需要保持冷静和自信，同时要以幽默和机智的方式回应，不要把回嘴当成是对自己的攻击，而是看作是一种挑战和机会。'
+  qas:
+  - 问题1：What is the difference between solid game and practice game?
+  - 回答1：Solid game is leaving and re-approaching later, possibly with two girls in
+    your arms, while practice game is not knowing what to do next and trying new approaches.
+  - 问题2：How should one approach potential interrupts in interactions?
+  - 回答2：One should move forward by trial and error to solve potential interrupts.
+  - 问题3：What is the attitude towards girls who may seem difficult or unpleasant?
+  - 回答3：The attitude is not to label them as bitches, but to understand that they
+    may change in the future.
+  - 问题4：What is the mindset towards girls who may reject advances initially?
+  - 回答4：Rather than making excuses or calling them bitches, one should consider the
+    possibility of future interactions.
+  - 问题5：How should one respond to challenges in social dynamics?
+  - 回答5：By being humble, open to experimentation, and willing to adapt and learn from
+    trial and error.
   questions: '-   游戏中学习的重要性是什么？
 
     -   为什么在游戏中遇到困难时需要尝试新的方法？
@@ -154,6 +203,20 @@
     -   男性可以通过赠送物品建立时间桥梁，加深情感连接，例如赠送一件具有特殊意义的物品，并要求女性在下次见面时归还，以此来延长他们之间的联系。
 
     -   阿尔法男性的特质包括自信、领导力、幽默和自我价值感。他们可以展现出这些特质，通过自信地与女性互动，展示自己的魅力和吸引力，从而吸引女性并建立深厚的情感联系。'
+  qas:
+  - 问题1：Who is protecting herself and why?
+  - 回答1：She is protecting herself from a barrage of bore because of her personality
+    conveying material.
+  - 问题2：What did the narrator do with the Angora pink sweater?
+  - 回答2：He left it out because he planned to give it back to her the next time he
+    saw her, and he occasionally smelled it.
+  - 问题3：What does the narrator associate the pink sweater with?
+  - 回答3：He associates it with the girl, as it reminded him of her whenever he smelled
+    it.
+  - 问题4：What is the significance of getting a one dollar necklace?
+  - 回答4：It serves as a time bridge and allows the narrator to create a memorable interaction.
+  - 问题5：What does the narrator want the recipient of the necklace to promise?
+  - 回答5：To promise to give the necklace back the next time they see each other.
   questions: '-   男性如何穿透女性的“坏女孩”外表，展现出阿尔法男性的特质？
 
     -   男性应该如何理解女性的冷漠行为，并避免个人化？
@@ -193,6 +256,24 @@
     -   这些技巧可能不适用于吸引所有类型的女性，因为每个人都有不同的偏好和价值观。
 
     -   有些人可能认为这些技巧不符合道德标准，因为它们可能涉及操纵和欺骗。'
+  qas:
+  - 问题1：What is the speaker's attitude towards the women in the room?
+  - 回答1：The speaker perceives some women in the room as interested in meeting him
+    but unable to due to his current company.
+  - 问题2：How does the speaker describe the effect he has on women when he interacts
+    with them?
+  - 回答2：The speaker claims that women exhibit a noticeable physiological change when
+    they talk to him or observe him interacting with others.
+  - 问题3：What does the speaker suggest about his social status among women?
+  - 回答3：The speaker suggests he is often surrounded by women, which he presents as
+    a form of social proof or validation.
+  - 问题4：How does the speaker assert his influence over other women in the room?
+  - 回答4：The speaker asserts his influence by pointing out how other women are interested
+    in him when they see him surrounded by women and making them laugh.
+  - 问题5：What is the speaker's main reason for not engaging with other women who are
+    interested in him?
+  - 回答5：The speaker states that he is already entertained and does not need to meet
+    other women because he is enjoying his time with his current company.
   questions: '-   如何告诉女性你被其他女性包围？
 
     -   如何利用女性的生理变化来判断她们是否对你感兴趣？
@@ -231,6 +312,23 @@
     -   使用锁定道具吸引目标可以帮助你在与其他人交流时，保持目标的注意力，并展示自己的独特性和吸引力。
 
     -   避免使用电子邮件建立联系是因为女性的大脑并不适合通过电子邮件来建立情感联系，而更适合通过面对面的交流来建立更深层次的关系。'
+  qas:
+  - 问题1：What is the purpose of using a lock-in prop according to the text?
+  - 回答1：It's used for social proofing and building attraction, allowing the speaker
+    to engage with others by temporarily involving them in a conversation or activity.
+  - 问题2：How does the speaker describe the interaction between the target and the obstacle?
+  - 回答2：The speaker refers to the target as someone they're interested in and the
+    obstacle as someone temporarily engaged to facilitate interaction.
+  - 问题3：What does the speaker imply about using labels like "obstacle"?
+  - 回答3：The label "obstacle" is not meant to be derogatory but rather indicates someone
+    who is briefly engaged to help facilitate interaction.
+  - 问题4：Why does the speaker suggest avoiding email communication?
+  - 回答4：The speaker suggests avoiding email because a woman's brain is not emotionally
+    wired for it, implying it might not be conducive to effective communication in
+    certain contexts.
+  - 问题5：What does the speaker mean by "Time bridge" in the context provided?
+  - 回答5："Time bridge" refers to creating an opportunity or plan to meet again in the
+    future, suggesting continuity in the relationship or interaction.
   questions: '-   如何运用社会证明和吸引力建立关系？
 
     -   如何通过标签化障碍物来锁定目标？
@@ -270,6 +368,23 @@
     -   故事串联可以展示个人成长经历，通过一系列故事展示从过去到现在的发展和变化，让对方更好地了解自己。
 
     -   illusionist通过故事展示自己的魔术才能，通过讲述自己的魔术表演经历和成长故事，展示自己的独特魅力和技能。'
+  qas:
+  - 问题1：What is the role of an opener in the context described?
+  - 回答1：An opener is a short story used to initiate interaction or engagement, similar
+    to how a comedian uses material to connect with an audience.
+  - 问题2：How does the text suggest managing attention during interactions?
+  - 回答2：By starting with short stories (openers) before moving into longer routines
+    to maintain the audience's interest and establish value.
+  - 问题3：What is emphasized about personal storytelling in this text?
+  - 回答3：It's crucial to ground one's identity in relatable experiences rather than
+    starting with larger achievements like being a CEO, to resonate with the listener's
+    reality.
+  - 问题4：How does the text compare the role of a pickup artist to that of a comedian?
+  - 回答4：Both use crafted material (stories for pickup artists, jokes for comedians)
+    to build rapport and engage their audience effectively.
+  - 问题5：According to the text, why is it ineffective to start with a big routine?
+  - 回答5：Starting with a big routine risks losing the audience's attention because
+    value and connection haven't been established yet.
   questions: '-   人类起源于多久前？
 
     -   行为艺术家为什么需要准备素材？
@@ -318,6 +433,23 @@
     -   在第一次表演魔术时，我收获了什么？
 
     -   在第一次表演魔术时，我收获了50美元的报酬，以及对自己未来职业的决心。'
+  qas:
+  - 问题1：What childhood aspirations did the speaker have?
+  - 回答1：The speaker wanted to be a magician, an astronaut, and a puppeteer at different
+    points in their childhood.
+  - 问题2：How did the speaker feel about their first magic show?
+  - 回答2：The speaker was extremely nervous and anxious for two weeks leading up to
+    the show, as they had never performed in front of an audience before.
+  - 问题3：Who did the speaker perform their first magic show for?
+  - 回答3：The speaker performed their first magic show for about 20 kids, for which
+    they were paid 50 bucks when they were 17 years old.
+  - 问题4：What was the speaker's reaction to their own performance in the first magic
+    show?
+  - 回答4：The speaker thought their performance was terrible ("horrible" and "shit"),
+    but they still accepted the payment.
+  - 问题5：What impact did seeing David Copperfield perform have on the speaker?
+  - 回答5：After watching David Copperfield perform, the speaker decided they would never
+    perform magic again because they found the experience horrible and disliked it.
   questions: '-   作为一个孩子，我有多种职业梦想是什么？
 
     -   第一次表演魔术时，我感到紧张吗？
@@ -357,6 +489,17 @@
     -   主人物在看了大卫·科波菲尔德的表演后感悟到自己想成为世界上最伟大的魔术师，并决心不再错过任何表演机会。
 
     -   主人物在决定不再重复错过表演的经历后会采取行动去实现自己的梦想，包括进行大量的魔术表演和不断提升自己的技艺。'
+  qas:
+  - 问题1：Why didn't she come to the event?
+  - 回答1：She wasn't there that weekend.
+  - 问题2：Why was the speaker afraid to ask her if she would come?
+  - 回答2：The speaker was too scared.
+  - 问题3：What did the speaker decide after attending the show?
+  - 回答3：The speaker decided to become the world's greatest illusionist.
+  - 问题4：What did the speaker do after making that decision?
+  - 回答4：The speaker started doing many magic shows.
+  - 问题5：How many magic shows did the speaker estimate they had performed?
+  - 回答5：About 300 to 400 magic shows.
   questions: '-   主人物错过了表演后的心理变化是什么？
 
     -   为什么主人物决定成为魔术师？
@@ -396,6 +539,7 @@
     -   通过讲故事的方式，可以展示自己的勇气和成长，让观众感受到自己的决心和毅力，从而让他们为自己感到骄傲。
 
     -   确保每个故事都让观众为自己的勇气感到骄傲，需要精心选择故事内容，让每个故事都展示出自己的成长和勇气，让观众感受到自己的坚定和决心。'
+  qas: []
   questions: '-   如何在小孩的生日派对和学校表演之间进行平衡？
 
     -   面对12、13岁的孩子们，如何继续对待他们像小孩？
@@ -443,6 +587,27 @@
     -   The speaker approaches connecting with women by demonstrating higher value,
     using comfort-building routines, and being mindful of the dynamics and relationships
     within a group.'
+  qas:
+  - 问题1：What is the speaker cautious about when starting his "grounding sequence"
+    with a girl?
+  - 回答1：The speaker is cautious not to start the grounding sequence unless he genuinely
+    likes the girl, to avoid causing any discomfort.
+  - 问题2：What does the speaker emphasize about his interaction with girls during his
+    storytelling?
+  - 回答2：The speaker emphasizes that he takes time to make girls comfortable and that
+    he avoids coming across as hitting on them.
+  - 问题3：What does the speaker plan to do at the stratosphere in Vegas?
+  - 回答3：The speaker plans to perform the world's first mid-air vanish by jumping off
+    the stratosphere in Vegas.
+  - 问题4：Why does the speaker need to ask about how everyone knows each other in a
+    group?
+  - 回答4：The speaker needs to understand the relationships within the group before
+    showing any indicators of interest, as he doesn't want to mistake someone for
+    a boyfriend or brother.
+  - 问题5：What is the speaker's approach when dealing with a two-set of females?
+  - 回答5：The speaker's approach with a two-set of females is to keep them together
+    initially and make them feel comfortable and familiar with him before proceeding
+    with any interaction.
   questions: '-   What does the speaker emphasize when starting a relationship?
 
     -   How does the speaker create a comfortable atmosphere during one-on-one interactions?
@@ -503,6 +668,21 @@
     By building rapport with key individuals, one can gain insight into the group''s
     dynamics, navigate potential conflicts, and enhance overall communication and
     connection within the group.'
+  qas:
+  - 问题1：How should you approach asking about how people know each other?
+  - 回答1：You have to ask that in every single set, but not too soon to avoid telegraphing
+    interest.
+  - 问题2：Why is it important not to ask too soon about how people know each other?
+  - 回答2：Asking too soon telegraphs interest, which can lower your perceived value.
+  - 问题3：What strategy should you use before asking about relationships in a group?
+  - 回答3：Demonstrate higher value and subtly show interest in more than just looks.
+  - 问题4：Why is it crucial to understand the relationships between people in a group?
+  - 回答4：Understanding relationships helps in strategizing interactions, especially
+    with potential obstacles like protective siblings or roommates.
+  - 问题5：What should you consider if one person in a group is related to the target's
+    boyfriend?
+  - 回答5：You need to be cautious and respectful, as certain actions might affect your
+    interactions with others in the group.
   questions: '-   How can one determine the right moment to ask how people know each
     other?
 
@@ -552,6 +732,19 @@
     -   通过展示自信和领导力来吸引女性。
 
     -   男主角的计划成功吸引了他的姐姐。'
+  qas:
+  - 问题1：Who does he plan to hand his sister to?
+  - 回答1：He plans to hand his sister to me on a silver platter.
+  - 问题2：What is described as a waypoint in A3?
+  - 回答2：The information about handing his sister to me is described as a waypoint
+    in A3.
+  - 问题3：What is C1 referred to as?
+  - 回答3：C1 is referred to as rapport.
+  - 问题4：What are comfort building routines compared to?
+  - 回答4：Comfort building routines are compared to DHVs (demonstrations of higher value).
+  - 问题5：Why does he initially suggest not telling the routine straight to her?
+  - 回答5：He suggests not telling the routine straight to her initially because it telegraphs
+    too much interest.
   questions: '-   男主角计划通过哪些行动来吸引他的姐姐？
 
     -   如何通过舒适建立例行程序来增加亲近感？
@@ -591,6 +784,27 @@
     -   作者在建立关系过程中采取了讲故事、表达对女孩的吸引力、展示自己的价值等行为。
 
     -   亲近感、信任和亲密关系是关键，因为这些因素可以帮助建立更深层次的情感连接，增加吸引力和亲和力。'
+  qas:
+  - 问题1：What is the speaker's approach to building rapport, trust, and intimacy?
+  - 回答1：The speaker emphasizes that rapport, trust, and intimacy are all cultivated
+    through location and interactions, and that these elements are essentially the
+    same concept.
+  - 问题2：What does the speaker suggest about the different phases C1, C2, and C3?
+  - '回答2：The speaker suggests that C1, C2, and C3 phases are differentiated only by
+    physical location, while the objective of each phase remains consistent: escalating
+    physical contact and building comfort.'
+  - 问题3：How does the speaker recommend handling interactions if a seduction location
+    is not nearby?
+  - 回答3：If a seduction location is unavailable nearby, the speaker advises against
+    starting seduction and arousal in an attraction location.
+  - 问题4：What does the speaker express regarding the significance of physical proximity
+    in interactions?
+  - 回答4：The speaker emphasizes that physical location determines how much one can
+    achieve in terms of rapport and interaction.
+  - 问题5：What does the speaker attribute to the chance events that led to their current
+    interaction?
+  - 回答5：The speaker attributes their current interaction to a series of chance events,
+    describing it as destiny.
   questions: '-   作者在讲座中如何建立亲近感、信任和亲密关系？
 
     -   为什么在不同地点进行逐步升级和舒适建立例行程序是重要的？
@@ -630,6 +844,22 @@
     -   主人物猜测对方的自动驾驶模式可能会带他们去维多利亚的秘密店。
 
     -   主人物的自动驾驶模式会带他去旅行包店，因为他觉得旅行包代表着冒险和机会。'
+  qas:
+  - 问题1：What is the speaker reflecting on regarding their current situation?
+  - 回答1：The speaker reflects on being glad they came out and met someone special,
+    despite their recent cynicism.
+  - 问题2：What does the speaker compare the person they met to?
+  - 回答2：The speaker compares the person they met to a diamond among many ordinary
+    people.
+  - 问题3：What does the speaker mention having a fetish for?
+  - 回答3：The speaker mentions having sexual fetishes but doesn't elaborate on them.
+  - 问题4：Where does the speaker's automatic pilot lead them during a hypothetical scenario?
+  - 回答4：The speaker's automatic pilot would lead them unexpectedly to Victoria's Secret
+    during a shopping trip with someone special.
+  - 问题5：Where does the speaker expect their automatic pilot to lead them, given their
+    gender stereotype?
+  - 回答5：Contrary to stereotypes, the speaker expects their automatic pilot to lead
+    them to places like a computer store or a gearhead place, but it surprises them.
   questions: "-   主人物为什么觉得很幸运能遇到对方？ \n-   主人物对对方的独特性有什么感受？\n-   主人物在商场的情景中展示了什么样的自动驾驶模式？\n\
     -   主人物猜测对方的自动驾驶模式会带他们去哪里？\n-   主人物的自动驾驶模式会带他去哪里？"
   summary: "-   主人公感到很幸运能遇到对方，对方让他感到快乐并感激相遇。\n    1.  主人公感到自己很幸运能够出门，否则就不会遇到这么好的人。\n\
@@ -664,6 +894,18 @@
     -   主人公觉得这个女孩有一种神秘的吸引力是因为她有一种不同于其他人的特质，让他感到被吸引和着迷。
 
     -   主人公对这个女孩产生强烈吸引力的原因是因为她让他感到被吸引和着迷，让他感到自己被她吸引，这种感觉让他无法自拔。'
+  qas:
+  - 问题1：What kind of store does the speaker find themselves in unexpectedly?
+  - 回答1：A travel bag store.
+  - 问题2：Why does the speaker find themselves in this store?
+  - 回答2：They are drawn in by some ethereal quality about travel bags.
+  - 问题3：What does the speaker compare a travel bag to?
+  - 回答3：An opportunity to have adventure.
+  - 问题4：How does the speaker describe their fascination with travel bags?
+  - 回答4：They love looking at them because of the sense of adventure and organization
+    they represent.
+  - 问题5：What impression does the speaker have of the person they are talking to?
+  - 回答5：They are intensely drawn to the person, finding them captivating and beautiful.
   questions: '-   主人公为什么总是被旅行包店吸引，即使不需要也会去看？
 
     -   旅行包对主人公意味着什么？
@@ -704,6 +946,21 @@
     -   男主角引入朋友并转变为三人组的方式是通过介绍朋友Neil Strauss，并让他加入对话，展示团队合作的重要性。
 
     -   男主角展示团队合作的重要性是通过让朋友与目标女性交谈，同时他与障碍女性交谈，展示了团队之间的默契和合作。'
+  qas:
+  - 问题1：What metaphor is used to describe the person's romantic interest?
+  - 回答1：The metaphor used is "you're like a travel bag."
+  - 问题2：How does the person suggest starting to win someone over romantically?
+  - 回答2：By telling her that you like her in a unique way, emphasizing emotion over
+    looks.
+  - 问题3：What strategy does the text describe for dealing with a "two set" situation?
+  - 回答3：The strategy involves bringing in a wingman to turn it into a three-person
+    group, with the wingman running interference on obstacles.
+  - 问题4：When is it suggested to use the strategy of "going in tandem"?
+  - 回答4：It is suggested to use "going in tandem" when attempting to approach a girl
+    for threesomes with a bisexual partner.
+  - 问题5：What is the amateur approach to handling a "two set" situation?
+  - 回答5：The amateur approach involves both individuals approaching the group simultaneously
+    like an interview, which is described as ineffective and amateurish.
   questions: '-   男主角是如何比喻女性为旅行包的？
 
     -   男主角是如何告诉女性他喜欢她的？
@@ -742,6 +999,22 @@
     -   一起追女生会显示缺乏自信，因为这会传达出你不自信地需要朋友的帮助才能与女生交流。
 
     -   朋友保持低调的作用是让你在与女生交流时展现出更高的价值，同时也让你的朋友在适当时机介绍自己，从而增加整体吸引力。'
+  qas:
+  - 问题1：What is tandem hunting?
+  - 回答1：Tandem hunting refers to approaching women with a friend, which is discouraged
+    due to its negative impact on confidence and perceived value.
+  - 问题2：Why is tandem hunting considered uncool?
+  - 回答2：It signals low confidence and implies that the approach is motivated by avoiding
+    direct interaction with one's friend rather than genuine interest in the women.
+  - 问题3：What is the suggested alternative to tandem hunting?
+  - 回答3：The alternative is to approach alone, letting the friend hold back but not
+    too visibly, and introducing the friend in a positive light after initial engagement.
+  - 问题4：How should one introduce their wingman according to the text?
+  - 回答4：Introduce the wingman with an accomplishment-oriented introduction, emphasizing
+    their positive attributes and achievements.
+  - 问题5：When should the wingman enter the conversation?
+  - 回答5：The wingman should enter the conversation about one and a half to three minutes
+    after the initial approach, after establishing rapport and interest.
   questions: '-   如何避免与朋友一起追女生，以展现自信？
 
     -   为什么不应该让朋友在旁边等着？
@@ -780,6 +1053,20 @@
     -   男性在与女性交流时传达自己的价值观通过与朋友合作展示自己的优点和成就，以及通过与女性进行交流来展示自己的吸引力。
 
     -   男性的朋友对他的行为评价很高，认为他能够有效地与女性交流并展示自己的吸引力，同时也能够与朋友合作来吸引目标女性的注意。'
+  qas:
+  - 问题1：What is the speaker discussing?
+  - 回答1：The speaker is discussing social interactions and strategies in a social setting.
+  - 问题2：Who is the speaker referring to as "your wing"?
+  - 回答2：The speaker refers to "your wing" as your buddy or companion in social situations.
+  - 问题3：What is the role of "your wing" in the described strategy?
+  - 回答3：The role of "your wing" is to engage with the target's companion (the obstacle),
+    allowing you to interact with your target.
+  - 问题4：How does the speaker suggest demonstrating higher value?
+  - 回答4：The speaker suggests demonstrating higher value obliquely by engaging with
+    the wing while indirectly showing interest to the target.
+  - 问题5：What does the speaker emphasize about the interaction dynamics?
+  - 回答5：The speaker emphasizes the importance of respecting the wing, avoiding direct
+    hitting on the target while still conveying interest and value indirectly.
   questions: '-   男性如何描述他与另一男性和两女性的对话？
 
     -   男性在与女性交流时强调什么？
@@ -819,6 +1106,23 @@
     -   男性需要降低障碍者的价值，以确保目标女性认为自己比较有吸引力，从而提高自身的价值。
 
     -   互相帮助的关系可以帮助男性建立信任和舒适感，从而更容易吸引目标女性。'
+  qas:
+  - 问题1：What strategy does the speaker use with his wingman?
+  - 回答1：The speaker builds relationships and cooperates with his wingman to manage
+    interactions with obstacles and targets.
+  - 问题2：Who is "mystery" and what is his significance?
+  - 回答2："Mystery" is described as a renowned illusionist known for dating beautiful
+    women and performing impressive feats like levitating over Niagara Falls.
+  - 问题3：How does the speaker handle obstacles in his interactions?
+  - 回答3：The speaker's wingman engages obstacles to keep them occupied, allowing the
+    speaker to focus on the target and build attraction through demonstrating high
+    value.
+  - 问题4：What does the speaker mean by "qualifying" the target?
+  - 回答4："Qualifying" involves prompting the target to demonstrate her worthiness or
+    compatibility with the speaker by showing interest and compliance.
+  - 问题5：What happens if the wingman fails to hold the obstacle?
+  - 回答5：If the wingman fails, the obstacle may rejoin the conversation, potentially
+    disrupting the speaker's interaction with the target.
   questions: '-   Mystery是如何吸引许多女性的？
 
     -   男性是如何通过与障碍者交谈来提高自身价值的？
@@ -859,6 +1163,23 @@
     -   在吸引目标时，验证目标并与朋友协商，确保合作顺利的方法是通过A3来验证目标，然后与朋友协商并得到他们的支持，确保合作顺利进行。
 
     -   利用合作伙伴的支持来展示自己的魅力是通过相互介绍和互相肯定，展示彼此的价值和吸引力，从而增强对目标的吸引力。'
+  qas:
+  - 问题1：What does the speaker suggest about controlling obstacles in social interactions?
+  - 回答1：The speaker suggests disarming obstacles independently to maintain control.
+  - 问题2：How does the speaker describe the dynamics of approaching a two-person group?
+  - 回答2：The speaker advises against approaching simultaneously with a wingman and
+    suggests working sequentially to handle obstacles and engage the target.
+  - 问题3：What does the speaker imply about social value and interaction within a group?
+  - 回答3：The speaker implies that perceived social value affects interactions, where
+    low value can lead to discomfort and potential interference.
+  - 问题4：According to the speaker, what strategy should be employed when dealing with
+    a two-person group?
+  - 回答4：The speaker recommends a strategy involving working on the obstacle first,
+    then engaging the target with validation and confirmation.
+  - 问题5：Why does the speaker emphasize the importance of communicating with the group
+    once engagement begins?
+  - 回答5：The speaker emphasizes clear communication to establish mutual agreement and
+    maintain interaction momentum.
   questions: '-   如何通过控制两个人的障碍物来控制局面，避免干扰？
 
     -   在一个人失误放弃障碍物时，如何处理责任转移的情况？
@@ -891,6 +1212,22 @@
     a vulnerability story，for another routine，，for another time。，You know，。when I
     talk about，my father died。，
 - answers: ''
+  qas:
+  - 问题1：What does the speaker mention about vulnerability stories?
+  - 回答1：The speaker mentions picking a vulnerability story as a significant aspect.
+  - 问题2：How does the speaker describe building trust with someone?
+  - 回答2：The speaker describes building trust by investing time, sharing personal things,
+    and trusting the other person in return.
+  - 问题3：What did the girl do that made the speaker trust her more?
+  - 回答3：The girl asked the speaker to hold her purse while she went to the washroom,
+    which made the speaker trust her more.
+  - 问题4：According to the speaker, what does comfort involve?
+  - 回答4：Comfort involves both comfort itself and trust (CNT), ensuring that one does
+    not make the other person uncomfortable and can be trusted if discomfort arises.
+  - 问题5：How does the speaker illustrate trust-building with a hat?
+  - 回答5：The speaker illustrates trust-building by leaving his hat with a girl, indicating
+    he will return, and getting it back afterward, which increases the girl's trust
+    in him.
   questions: '-   How can revealing vulnerabilities help in building trust and deepening
     relationships?
 
@@ -935,6 +1272,23 @@
     -   在社交场合中展示自己有着优秀朋友圈的能力很重要，因为这可以让人们认为你是一个有价值、受欢迎的人，从而增加你在社交圈中的影响力和吸引力。
 
     -   信任可以消除不适，因为当对方信任你会消除她的不适时，她会感到更加放心和舒适，从而建立起信任关系，让交流更加顺畅和愉快。'
+  qas:
+  - 问题1：What is trust defined as in the context provided?
+  - 回答1：Trust is defined as a belief in a prediction algorithm that ensures discomfort
+    will be removed.
+  - 问题2：According to the text, what is the essence of trust and comfort?
+  - 回答2：The essence is that trust boils down to predicting and removing discomfort,
+    while comfort is simply the absence of discomfort.
+  - 问题3：How does the narrator describe their interaction style with Neil?
+  - 回答3：The narrator describes a reciprocal introduction style where they bring friends
+    to Neil's group and vice versa.
+  - 问题4：Why does the narrator practice introducing Neil even when he's not around?
+  - 回答4：The narrator practices to enhance their own image and coolness by association
+    with Neil's accomplishments.
+  - 问题5：What advantage does the narrator suggest introducing new people to a group
+    they don't know?
+  - 回答5：It creates an impression that the entire group belongs to the narrator, especially
+    when introducing new people to a group through a well-known individual like Neil.
   questions: '-   信任是什么？它与预测算法有什么关系？
 
     -   为什么舒适和信任是相互关联的？
@@ -974,6 +1328,22 @@
     -   男主角和朋友们展示团队合作的重要性通过互相介绍和支持，共同吸引女性的注意，并展示彼此的价值和魅力。
 
     -   在游戏中理解不同类型的跳跃方式是重要的，因为这些跳跃方式可以帮助男主角在不同阶段和不同地点之间流畅地转换，从而更有效地实施吸引、舒适和诱惑的策略。'
+  qas:
+  - 问题1：What is the speaker discussing?
+  - 回答1：The speaker is discussing strategies and techniques related to social dynamics
+    and seduction.
+  - 问题2：How does the speaker describe the interaction with his friend?
+  - 回答2：The speaker describes interacting with his friend by merging their social
+    groups to create a larger group dynamic.
+  - 问题3：What concept does the speaker emphasize in their strategy?
+  - 回答3：The speaker emphasizes the concept of "wingmanship" and cooperative social
+    strategy.
+  - 问题4：What are the "three physical locations" mentioned by the speaker?
+  - 回答4：The three physical locations refer to comfort building, track (likely meaning
+    movement or progress), and seduction settings.
+  - 问题5：What do the "three jumps" mentioned by the speaker represent?
+  - 回答5：The "three jumps" represent transitions between different physical locations
+    during social interactions, optimizing phases like attraction, comfort, and seduction.
   questions: '-   男主角如何看待团队合作的重要性？
 
     -   为什么了解三个具体地点和三种跳跃方式对于成功实施神秘方法至关重要？
@@ -1014,6 +1384,19 @@
     -   时间桥梁的概念是在吸引和舒适阶段之间建立一个时间安排，以便再次见面。
 
     -   通过时间桥梁安排再次见面是通过建立一个具体的时间和地点，例如约定在某个地方见面，以便继续互动。'
+  qas:
+  - 问题1：What is the first step in the process described?
+  - 回答1：The first step is called a move, where you physically relocate the person.
+  - 问题2：What is the purpose of getting a phone number according to the text?
+  - 回答2：The purpose is to have a means to see the person again, serving as a receipt
+    for that option.
+  - 问题3：What is the metaphor used to describe the phone number?
+  - 回答3：It's described as a metaphorical "receipt for the option".
+  - 问题4：What are the three optional steps mentioned?
+  - 回答4：The three optional steps are moves, comfort locations, and bounces.
+  - 问题5：What happens during a bounce?
+  - 回答5：A bounce refers to having an instant date, such as picking someone up and
+    going somewhere together.
   questions: '-   如何通过牵手来移动女性到另一个地点？
 
     -   为什么在吸引地点建立吸引力后需要将女性移动到舒适地点？
@@ -1065,6 +1448,22 @@
     -   男主角邀请女性一起去不同场所，增加记忆，那么如何能够确保这种行为能够顺利进行并取得成功？
 
     -   男主角可以确保这种行为顺利进行并取得成功，通过细心计划和沟通，确保女性的需求和舒适度，同时展现出自信和魅力，让女性愿意跟随并享受这种新颖的体验。'
+  qas:
+  - 问题1：What is the purpose of a bounce?
+  - 回答1：The purpose of a bounce is to create an opportunity for the girl to pursue
+    the person inviting her.
+  - 问题2：Why is it called a bounce?
+  - 回答2：It's called a bounce because that's the term used in the context of moving
+    from one venue to another.
+  - 问题3：What is a multiple venue loop?
+  - 回答3：A multiple venue loop refers to taking a girl to several different locations
+    in a single outing to create more memorable experiences.
+  - 问题4：What is the significance of a multiple venue loop?
+  - 回答4：It helps in creating stronger memories and can condense the time spent together,
+    making the interaction more entertaining and interesting.
+  - 问题5：What is the function of a time bridge in this context?
+  - 回答5：In this context, a time bridge is used as a dating loop to accelerate rapport
+    and build trust between the individuals involved.
   questions: '-   男主角和朋友们计划去Mel''s Diner吃饭，邀请女性一起来，如何能够确保没有时间浪费，立即行动？
 
     -   男主角和女性在一起，准备换地方，如何能够增加女性对男主角的记忆？
@@ -1104,6 +1503,7 @@
     -   确保设定日期再次见面的有效性可以通过在之前的互动中建立良好的互动和亲密感，以及在见面时展现真诚和关心，让对方感到愉快和舒适。
 
     -   建立时间桥梁的重要性在于为之后的互动和发展关系创造机会，让双方有更多的时间相互了解和建立更深层次的联系。'
+  qas: []
   questions: '-   为什么需要设定日期再次见面并移动到舒适建筑物？
 
     -   在舒适建筑物中工作数小时如何帮助建立亲密感？
@@ -1143,6 +1543,7 @@
     -   在建立舒适感的过程中不应该急于发生性关系，因为这样会让女性感到被冒犯和不被尊重。重要的是要尊重女性的意愿和边界，建立信任和舒适感。
 
     -   根据女性的反应调整行为是确保她感到舒适的关键。如果女性表现出不舒服或不愿意的迹象，应该立即停止并尊重她的感受。重要的是要建立互相尊重和理解的关系，而不是强迫或逼迫。'
+  qas: []
   questions: '-   如何确保与女性发生性关系前她的情绪稳定且被激起，避免让她感到被利用？
 
     -   为什么只是为了性而联系女性会让她感到被利用？
@@ -1183,6 +1584,21 @@
     -   作者强调了约会过程中的终场游戏是因为在终场游戏中，建立亲近感变得尤为重要，这是确保关系发展顺利的关键。
 
     -   在终场游戏中建立亲近感的重要性在于确保关系的稳固发展，但可能出现的挑战是需要克服可能的失误和沟通障碍，确保双方都能达到共识和满意。'
+  qas:
+  - 问题1：What is the purpose of the mid game in the context described?
+  - 回答1：The mid game is about maintaining comfort and spending time with the person
+    of interest.
+  - 问题2：How does the speaker accumulate time with the person during the mid game?
+  - 回答2：The speaker engages in dating loops and spends time with the person to accumulate
+    hours together.
+  - 问题3：What is emphasized as crucial during the mid game phase?
+  - 回答3：Building comfort and rapport are crucial during the mid game phase.
+  - 问题4：What analogy does the speaker use to describe the pickup process?
+  - 回答4：The speaker compares the pickup process to playing a game with levels but
+    without a save feature.
+  - 问题5：What happens during the end game phase according to the text?
+  - 回答5：During the end game, the focus shifts to rapport building, and there's a risk
+    of losing progress if the connection is not maintained.
   questions: '-   什么是中场游戏和终场游戏在约会中的作用？
 
     -   作者如何使用象棋隐喻来说明中场游戏的重要性？
@@ -1224,6 +1640,22 @@
     -   如何在过程中尽量减少失败的可能性？通过不断学习和调整策略，以及避免重复相同的错误，可以尽量减少失败的可能性。
 
     -   为什么在视频游戏中没有保存功能，无法回头？在视频游戏中没有保存功能意味着一旦失败就无法回头，这与建立关系的过程中失去联系或错失机会类似，需要重新开始。'
+  qas:
+  - 问题1：What metaphorical scenario does the speaker use to describe the challenges
+    faced?
+  - 回答1：The speaker compares life to a video game without a save feature, where starting
+    from scratch is necessary after setbacks.
+  - 问题2：According to the speaker, what is the downside of early success?
+  - 回答2：Early success often leads to less experience towards the end of the journey.
+  - 问题3：What role does the speaker suggest they have in relation to minimizing mistakes?
+  - 回答3：The speaker aims to reduce the likelihood of errors and increase the chances
+    of success.
+  - 问题4：How does the speaker characterize the process of achieving success?
+  - 回答4：The speaker describes it as involving a lot of failure initially, with increasing
+    success at the beginning but potentially diminishing towards the end.
+  - 问题5：What is the overall message the speaker conveys about the journey of success?
+  - 回答5：Success involves facing challenges and setbacks, with initial failures being
+    a part of the process before achieving successes.
   questions: '-   成功和失败在何种情况下需要从头开始？
 
     -   为什么成功开始意味着更有可能在结束时成功？
