@@ -81,6 +81,17 @@
     Stromback，他有文章關於Rich，他非常有聯繫，有一個會議叫Davos，是誰誰的世界。一百五十到兩百五十萬，去參加這個會議，他和我一起談話，我說，請告訴我，我和CNBC合作，我說，這很酷，請告訴我，我知道，我從來沒有參加過Davos，通常是政府領導人。或是Richard
     Branson的，然後被邀請，甚至是Stan，
 - answers: ''
+  qas:
+  - 问题1：有关什么活动的介绍？
+  - 回答1：这是个活动，这是个派对，可以做一个介绍吗？
+  - 问题2：Tony Robbins怎么说这件事？
+  - 回答2：你问Tony Robbins，他就说这很棒。
+  - 问题3：关于玩游戏和喝酒的喜好是什么？
+  - 回答3：你和女朋友喜欢做什么？我们喜欢玩游戏，喝酒，吃寿司。
+  - 问题4：什么是Chateau Montalena和Selbach Oster？
+  - 回答4：Chateau Montalena是一个很好的酒吧，Selbach Oster是一种德国酒。
+  - 问题5：关于足球的情况是怎样的？
+  - 回答5：你玩过多少次足球？
   questions: '-   作者与Peter Guber、Scooter Braun和Tony Robbins交流时得到了什么样的积极回应？
 
     -   作者与女友相识的经历是怎样的？他们喜欢做什么活动和喝什么酒？
